@@ -1,4 +1,5 @@
-### Olá eu sou o Wanderson Vicente 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Wanderson+Vicente;I+from+Brasil,+RJ;I+study+full+stack+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
   
@@ -37,3 +38,5 @@
       <img width="25" src="Facebook_icon_2013.svg">
     </a>
 </div>
+
+
