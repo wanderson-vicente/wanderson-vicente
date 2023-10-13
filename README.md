@@ -15,7 +15,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wanderson-vicente&bg_color=120651&color=6c9ee0&line=ed3d02&point=a30bea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div class="bio">
-    <h2>Desenvolvedor em mudança de carreira</h2>
+    <h1>Desenvolvedor em transição de carreira</h1>
     <p>
       Com experiência em tecnologia, logística e suprimentos, sou um(a) entusiasta por tecnologia com experiência em manutenção de computadores, instalação de redes cabeadas, configuração de redes, desk help e cursos de sistema operacional e pacote office.
     </p>
