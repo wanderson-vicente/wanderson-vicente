@@ -27,19 +27,19 @@
 
 <div  align="center"> 
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: dev50plus@gmail.com">
+    <a href = "mailto: dev50plus@gmail.com" target="_blank">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/wanderson-j-vicente/">
+    <a href = "https://www.linkedin.com/in/wanderson-j-vicente/" target="_blank">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UC8yLnyr84KW_33KFVi2tBdA">
+    <a href = "https://www.youtube.com/channel/UC8yLnyr84KW_33KFVi2tBdA" target="_blank">
       <img width="35" src="youtube.svg">
     </a>
-    <a href = "https://www.instagram.com/dev50plus/">
+    <a href = "https://www.instagram.com/dev50plus/" target="_blank">
       <img width="25" src="instagram.png">
     </a>
-        <a href = "https://www.facebook.com/profile.php?id=61552503415235">
+        <a href = "https://www.facebook.com/profile.php?id=61552503415235" target="_blank">
       <img width="25" src="Facebook_icon_2013.svg">
     </a>
 </div>
