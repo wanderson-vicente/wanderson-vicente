@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="style.css">
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header&text=Dev50Plus&fontSize=50&fontColor=dcdcdc&animation=twinkling&fontAlignY=35"/>
 -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Wanderson+Vicente;I+from+Brasil,+RJ;I+study+full+stack+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div  align="center"> 
@@ -15,7 +17,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="350" alt="coding-time" src="git-github.gif">
-<h2 align="center" style="color: 00bfbf">Main skills in hard skills: </h2>
+    <h2 align="center" class="my-custom-header">Main skills in hard skills: </h2>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
