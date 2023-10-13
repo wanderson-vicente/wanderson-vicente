@@ -17,7 +17,7 @@
   <div class="bio">
     <h1>Software developer in career transition</h1>
     <p>
-      With experience in technology, logistics, and supply chain, I am a passionate technologist with experience in computer maintenance, wired network installation, network configuration, desk help, and operating system and office suite courses.
+      With experience in technology, logistics, and supply chain, I am a passionate technology enthusiast with experience in computer maintenance, wired network installation, network configuration, desk help, and operating system and office suite courses.
     </p>
     <p>
       I am communicative, a leader, and have experience working in teams. I am currently updating my software development skills to transition careers.
