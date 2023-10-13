@@ -15,7 +15,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="350" alt="coding-time" src="git-github.gif">
-    <h2 align="center">Main skills: </h2>
+<h2 align="center" style="color: 00bfbf">Main skills in hard skills: </h2>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,7 +26,7 @@
  </div>
 
 <div  align="center"> 
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Social media</h1>
     <a href = "mailto: dev50plus@gmail.com" target="_blank" rel="noopener noreferrer">
       <img width="30" src="gmail.svg">
     </a>
