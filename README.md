@@ -15,15 +15,15 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wanderson-vicente&bg_color=120651&color=6c9ee0&line=ed3d02&point=a30bea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div class="bio">
-    <h1>Desenvolvedor em transição de carreira</h1>
+    <h1>Software developer in career transition</h1>
     <p>
-      Com experiência em tecnologia, logística e suprimentos, sou um(a) entusiasta por tecnologia com experiência em manutenção de computadores, instalação de redes cabeadas, configuração de redes, desk help e cursos de sistema operacional e pacote office.
+      With experience in technology, logistics, and supply chain, I am a passionate technologist with experience in computer maintenance, wired network installation, network configuration, desk help, and operating system and office suite courses.
     </p>
     <p>
-      Sou comunicativo(a), líder e com experiência de trabalho em equipe. Estou atualizando minhas habilidades em desenvolvimento de software para mudar de carreira.
+      I am communicative, a leader, and have experience working in teams. I am currently updating my software development skills to transition careers.
     </p>
     <p>
-      Meus hobbies são cozinhar, ver filmes com a família, cultivar temperos e automação residencial.
+      My hobbies include cooking, watching movies with family, growing herbs, and home automation.
     </p>
   </div>
 
