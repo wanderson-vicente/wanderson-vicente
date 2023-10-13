@@ -3,7 +3,7 @@
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Wanderson+Vicente;I+from+Brasil,+RJ;I+study+full+stack+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
+<div  align="center"> 
   
   <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=wanderson-vicente&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderson-vicente&layout=compact&langs_count=16&theme=algolia"/>
@@ -15,16 +15,17 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="git-github.gif">
-    <h1 align="center">HARD SKILLS <3</h1>
+    <h2 align="center">Main skills: </h2>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <h2 align="center">Studying in this moment: </h2>
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   </div>
+ </div>
     
-  
+<div  align="center"> 
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: dev50plus@gmail.com">
       <img width="30" src="gmail.svg">
