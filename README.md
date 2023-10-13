@@ -37,5 +37,3 @@
       <img width="25" src="Facebook_icon_2013.svg">
     </a>
 </div>
-  
-![Snake animation](https://github.com/wanderson-vicente/wanderson-vicente/blob/output/github-contribution-grid-snake.svg)
