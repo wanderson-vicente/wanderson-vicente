@@ -10,6 +10,8 @@
 </div>
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wanderson-vicente&bg_color=120651&color=6c9ee0&line=ed3d02&point=a30bea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="git-github.gif">
