@@ -1,3 +1,10 @@
 .my-custom-header {
   color: #00bfbf;
 }
+.bio {
+  background-color: #120651;
+  color: #6c9ee0;
+  text-align: left;
+  margin: 20px;
+  border: none;
+}
